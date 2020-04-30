@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolio-react/static/css/main.13f55b07.chunk.css",
-    "main.js": "/Portfolio-react/static/js/main.9ba1a840.chunk.js",
-    "main.js.map": "/Portfolio-react/static/js/main.9ba1a840.chunk.js.map",
-    "runtime-main.js": "/Portfolio-react/static/js/runtime-main.dda6cdde.js",
-    "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.dda6cdde.js.map",
-    "static/js/2.84d083df.chunk.js": "/Portfolio-react/static/js/2.84d083df.chunk.js",
-    "static/js/2.84d083df.chunk.js.map": "/Portfolio-react/static/js/2.84d083df.chunk.js.map",
+    "main.js": "/Portfolio-react/static/js/main.9eb0183e.chunk.js",
+    "main.js.map": "/Portfolio-react/static/js/main.9eb0183e.chunk.js.map",
+    "runtime-main.js": "/Portfolio-react/static/js/runtime-main.cf362ccc.js",
+    "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.cf362ccc.js.map",
+    "static/js/2.80aa4d6e.chunk.js": "/Portfolio-react/static/js/2.80aa4d6e.chunk.js",
+    "static/js/2.80aa4d6e.chunk.js.map": "/Portfolio-react/static/js/2.80aa4d6e.chunk.js.map",
     "index.html": "/Portfolio-react/index.html",
-    "precache-manifest.31834f9c20485fcef062b32a744afd05.js": "/Portfolio-react/precache-manifest.31834f9c20485fcef062b32a744afd05.js",
+    "precache-manifest.d74e4c065b6360f94bfba8c4256cf407.js": "/Portfolio-react/precache-manifest.d74e4c065b6360f94bfba8c4256cf407.js",
     "service-worker.js": "/Portfolio-react/service-worker.js",
     "static/css/main.13f55b07.chunk.css.map": "/Portfolio-react/static/css/main.13f55b07.chunk.css.map",
-    "static/js/2.84d083df.chunk.js.LICENSE.txt": "/Portfolio-react/static/js/2.84d083df.chunk.js.LICENSE.txt",
+    "static/js/2.80aa4d6e.chunk.js.LICENSE.txt": "/Portfolio-react/static/js/2.80aa4d6e.chunk.js.LICENSE.txt",
     "static/media/MRamirez_Resume.pdf": "/Portfolio-react/static/media/MRamirez_Resume.22a3b8c6.pdf",
     "static/media/burguer-app.png": "/Portfolio-react/static/media/burguer-app.5a5a8188.png",
     "static/media/choice-maker.png": "/Portfolio-react/static/media/choice-maker.6d4e435b.png",
@@ -27,9 +27,9 @@
     "static/media/yummtrucks-img.png": "/Portfolio-react/static/media/yummtrucks-img.438f196e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dda6cdde.js",
-    "static/js/2.84d083df.chunk.js",
+    "static/js/runtime-main.cf362ccc.js",
+    "static/js/2.80aa4d6e.chunk.js",
     "static/css/main.13f55b07.chunk.css",
-    "static/js/main.9ba1a840.chunk.js"
+    "static/js/main.9eb0183e.chunk.js"
   ]
 }
