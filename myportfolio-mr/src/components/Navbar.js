@@ -1,6 +1,6 @@
 import React from "react";
 
-function Navbar(){
+function Navbar(props){
 
     return (
 
@@ -13,16 +13,16 @@ function Navbar(){
             <div className="collapse navbar-collapse text-left" id="navcol-1">
                 <ul className="nav navbar-nav flex-grow-1 justify-content-between">
                     <li className="nav-item" role="presentation"><a className="nav-link active text-monospace"
-                            href="index.html">/Home</a></li>
+                            href="#" onClick={() => props.handlePageChange("Home")}>/Home</a></li>
                     <li className="nav-item" role="presentation"><a className="nav-link active text-monospace"
                             href="https://github.com/manuelr14" target="_blank">/Github</a></li>
                     <li className="nav-item" role="presentation"><a className="nav-link active text-monospace"
                             href="https://www.linkedin.com/in/manuel-ramirez-381780142/"
                             target="_blank">/LinkedIn</a></li>
                     <li className="nav-item" role="presentation"><a className="nav-link text-monospace"
-                            href="assets/img/MRamirez_Resume.pdf" target="_blank">/Resume</a></li>
+                            href={require('./img/MRamirez_Resume.pdf')} target="_blank">/Resume</a></li>
                     <li className="nav-item" role="presentation"><a className="nav-link text-monospace"
-                            href="contact.html">/Contact</a></li>
+                            href="#"onClick={() => props.handlePageChange("Contact")}>/Contact</a></li>
                 </ul>
             </div>
         </div>
