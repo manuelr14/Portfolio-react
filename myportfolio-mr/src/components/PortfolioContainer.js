@@ -3,24 +3,25 @@ import Navbar from "./Navbar";
 import Container from "./Container";
 import { render } from "react-dom";
 
-class PortfolioContainer extends Component {
+// class PortfolioContainer extends Component {
 
-render(){
+// render(){
+    function PortfolioContainer(){
 
     return(
         <div>
             
-            <Container>
+            {/* <Container> */}
                 
                 <Navbar/>
 
-            </Container>
+            {/* </Container> */}
 
 
 
         </div>
     )
 }
-}
+// }
 
 export default PortfolioContainer;
