@@ -1,7 +1,8 @@
 import React, {Component} from "react"; 
 import Navbar from "./Navbar";
-import Footer from "./Footer"
-import Home from "./pages/Home"
+import Footer from "./Footer";
+import Home from "./pages/Home";
+import Contact from "./pages/Contact";
 import Container from "./Container";
 import { render } from "react-dom";
 
@@ -16,7 +17,8 @@ import { render } from "react-dom";
             {/* <Container> */}
                 
                 <Navbar/>
-                <Home/>
+                {/* <Home/> */}
+                <Contact/>
                 <Footer/>
 
             {/* </Container> */}
