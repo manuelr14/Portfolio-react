@@ -23,7 +23,7 @@ function Footer() {
                                     target="_blank">/Github</a></li>
                                 <li><a className="text-monospace" href="https://www.linkedin.com/in/manuel-ramirez-381780142/"
                                     target="_blank">/LinkedIn</a></li>
-                                <li><a className="text-monospace" href="assets/img/MRamirez_Resume.pdf"
+                                <li><a className="text-monospace" href="assets/img/MRamirez_Resume_2020.pdf"
                                     target="_blank">/Resume</a></li>
                             </ul>
                         </div>

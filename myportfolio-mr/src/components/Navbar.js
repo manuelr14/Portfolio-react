@@ -20,7 +20,7 @@ function Navbar(props){
                             href="https://www.linkedin.com/in/manuel-ramirez-381780142/"
                             target="_blank">/LinkedIn</a></li>
                     <li className="nav-item" role="presentation"><a className="nav-link text-monospace"
-                            href={require('./img/MRamirez_Resume.pdf')} target="_blank">/Resume</a></li>
+                            href={require('./img/MRamirez_Resume_2020.pdf')} target="_blank">/Resume</a></li>
                     <li className="nav-item" role="presentation"><a className="nav-link text-monospace"
                             href="#"onClick={() => props.handlePageChange("Contact")}>/Contact</a></li>
                 </ul>
